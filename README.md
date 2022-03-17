@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://nevyll.github.io/Keybr/">
+    <a href="https://suspicious-hoover-059fc5.netlify.app/">
       Demo
     </a>
   </h3>
